@@ -33,7 +33,7 @@ function Banner() {
               onClick={scrollHandler}
             >
               <ShoppingBagIcon className="mr-2 xl:w-6 w-5" />
-              Shop Now
+              Shop Now, Let's GO!
             </button>
           </Fade>
         </div>
